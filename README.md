@@ -1,2 +1,2 @@
 # Mseminar_Python
-Master seminarで用いたPython実践入門の要約
+Masterseminar用　Python実践入門の要約
