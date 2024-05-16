@@ -1,0 +1,2 @@
+# Mseminar_Python
+Master seminarで用いたPython実践入門の要約
